@@ -34,6 +34,8 @@ Timestamp normalization
 
 Custom keyword scoring and labeling
 
+Due to privacy and platform security concerns, raw Reddit comments are not included in this repository. Only preprocessed metadata and structural information are shared to demonstrate the methodology. Users are encouraged to collect fresh data using the Reddit API or Pushshift for replication.
+
 ## Tech Stack
 - Python, Jupyter, Hugging Face Transformers
 - BERTopic, Scikit-learn, Pandas, NumPy
